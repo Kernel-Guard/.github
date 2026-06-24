@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img width="2120" height="742" alt="banner" src="https://github.com/user-attachments/assets/d59deda5-18a6-45cd-b6e7-9b193acfee52" alt="Kernel Guard — Runtime Protection. Verifiable Security." width="100%">
+  <img width="2172" height="723" src="https://github.com/user-attachments/assets/48553e68-62c4-4aa2-870d-dedad35f575c"  alt="Kernel Guard — Runtime Protection. Verifiable Security." width="100%">
 </p>
 
 # Kernel Guard
